@@ -1,8 +1,15 @@
+<table>
+  <tr>
+    <td><strong>apofenia7 / mateus</strong></td>
+    <td align="right"><sub>PATTERNS &nbsp;·&nbsp; MINDS &nbsp;·&nbsp; MACHINES &nbsp;·&nbsp; VALUE</sub></td>
+  </tr>
+</table>
+
 <p align="center">
   <img
-    src="./assets/mateus-moth.jpg"
+    src="./assets/profile-hero.jpg"
     width="100%"
-    alt="An iridescent purple moth formed by fine cartographic and organic patterns"
+    alt="An engraved moth suspended over violet and indigo particle fields, scientific diagrams and a matte-black ground"
   >
 </p>
 
@@ -13,46 +20,120 @@
 </p>
 
 <p align="center">
-  <a href="https://mateus-site-ebon.vercel.app">website</a>
-  &nbsp;·&nbsp;
-  <a href="https://apofenia.art">apofenia</a>
-  &nbsp;·&nbsp;
-  <a href="https://alternamentesaude.com">alternamente</a>
+  <a href="https://mateus-site-ebon.vercel.app">website ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://apofenia.art">apofenia ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://alternamentesaude.com">alternamente ↗</a>
 </p>
 
----
+<br>
 
-I investigate how people perceive, decide, care, create and assign value — then build systems around those questions.
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <sub>SIGNAL → PATTERN → MEANING → VALUE</sub>
+    </td>
+    <td width="60%" valign="top">
+      I investigate how people perceive, decide, care, create and assign value — then build systems around those questions.
+    </td>
+  </tr>
+</table>
 
-## 01 / areas
+<p align="center">
+  <sub>MIND &amp; CARE &nbsp;&nbsp;·&nbsp;&nbsp; CULTURE &amp; VALUE &nbsp;&nbsp;·&nbsp;&nbsp; MACHINES &amp; INTERFACES &nbsp;&nbsp;·&nbsp;&nbsp; SYSTEMS &amp; RESEARCH</sub>
+</p>
 
-**Mind & care**  
-Mental health, care infrastructure and tools that keep responsibility with people.
+## Systems & projects
 
-**Culture & value**  
-Art, music, intellectual property and the ways cultural work becomes legible and valued.
+<sub>Building systems that expand clarity, autonomy and meaning.</sub>
 
-**Machines & interfaces**  
-AI, agents and clear tools for complex human work.
+<br><br>
 
-**Systems & research**  
-Writing, code, prototypes and applied inquiry across disciplines.
+<table>
+  <tr>
+    <td width="33.333%" valign="top">
+      <img src="./assets/praxis-care.jpg" width="100%" alt="A braided clinical signal rendered as particles and fine scientific lines">
+      <h3>Práxis Care</h3>
+      <p>Systems for care and clinical work, designed to increase clarity without displacing responsibility.</p>
+      <sub>CARE · SYSTEMS</sub>
+    </td>
+    <td width="33.333%" valign="top">
+      <img src="./assets/apofenia.jpg" width="100%" alt="A fragmented classical bust emerging from archival noise and violet light">
+      <h3>Apofenia</h3>
+      <p>Culture, intellectual property and the systems through which creative work becomes legible and valued.</p>
+      <sub>CULTURE · IP · VALUE</sub>
+    </td>
+    <td width="33.333%" valign="top">
+      <img src="./assets/mateus-os.jpg" width="100%" alt="A dark architectural threshold crossed by a narrow violet light">
+      <h3>Mateus OS</h3>
+      <p>Personal infrastructure for thinking, deciding and executing with less friction.</p>
+      <sub>TOOLS · DECISIONS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.333%" valign="top">
+      <img src="./assets/ai-lab.jpg" width="100%" alt="A sparse constellation of nodes joined by fine lines and a violet signal">
+      <h3>AI Lab</h3>
+      <p>Explorations in agents, models, data and interfaces for complex human work.</p>
+      <sub>AGENTS · MODELS · INTERFACES</sub>
+    </td>
+    <td width="33.333%" valign="top">
+      <img src="./assets/juris-eng-med.jpg" width="100%" alt="An anatomical human figure intersected by sparse engineering and balance geometry">
+      <h3>Juris · Eng · Med</h3>
+      <p>Applied research where medicine, engineering and law intersect.</p>
+      <sub>APPLIED RESEARCH</sub>
+    </td>
+    <td width="33.333%" valign="top">
+      <img src="./assets/experiments.jpg" width="100%" alt="Incomplete orbital paths, fine particles and violet traces on black">
+      <h3>Experiments</h3>
+      <p>Notes, prototypes and unfinished ideas kept visible while they take form.</p>
+      <sub>NOTES · PROTOTYPES</sub>
+    </td>
+  </tr>
+</table>
 
-## 02 / systems
+<p align="right"><sub>Some of this work lives in private repositories by design.</sub></p>
 
-**Práxis Care**  
-Systems for care and clinical work.
+## Experiments & annotations
 
-**Apofenia**  
-Culture, intellectual property and systems of value.
+<sub>CURRENT QUESTIONS</sub>
 
-**Mateus OS**  
-Personal infrastructure for thought, decisions and execution.
+<br><br>
 
-**AI Lab**  
-Experiments with agents, models and interfaces.
+<table>
+  <tr>
+    <td width="33.333%" valign="top">
+      <sub>01 / PERCEPTION</sub><br><br>
+      <strong>Observations on perception</strong>
+    </td>
+    <td width="33.333%" valign="top">
+      <sub>02 / ADAPTATION</sub><br><br>
+      <strong>Adaptive systems</strong>
+    </td>
+    <td width="33.333%" valign="top">
+      <sub>03 / SIGNAL</sub><br><br>
+      <strong>Noise and meaning</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.333%" valign="top">
+      <sub>04 / VALUE</sub><br><br>
+      <strong>Value formation</strong>
+    </td>
+    <td width="33.333%" valign="top">
+      <sub>05 / INTERFACES</sub><br><br>
+      <strong>Interfaces and intention</strong>
+    </td>
+    <td width="33.333%" valign="top">
+      <sub>06 / EMBODIMENT</sub><br><br>
+      <strong>Mind, body and technology</strong>
+    </td>
+  </tr>
+</table>
 
-**Juris · Eng · Med**  
-Applied research across medicine, engineering and law.
+<br>
 
-<sub>Some of this work lives in private repositories by design.</sub>
+<p align="center">
+  <em>perceber é o início. &nbsp; decidir é o meio. &nbsp; construir é o método. &nbsp; valor é o propósito.</em>
+</p>
