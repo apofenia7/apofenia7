@@ -53,14 +53,14 @@
 <table>
   <tr>
     <td width="33.333%" valign="top">
-      <img src="./assets/praxis-care.jpg" width="100%" alt="A braided clinical signal rendered as particles and fine scientific lines">
-      <h3>Práxis Care</h3>
+      <img src="./assets/alternamente.jpg" width="100%" alt="A braided clinical signal rendered as particles and fine scientific lines">
+      <h3><a href="https://alternamentesaude.com">Alternamente ↗</a></h3>
       <p>Systems for care and clinical work, designed to increase clarity without displacing responsibility.</p>
       <sub>CARE · SYSTEMS</sub>
     </td>
     <td width="33.333%" valign="top">
       <img src="./assets/apofenia.jpg" width="100%" alt="A fragmented classical bust emerging from archival noise and violet light">
-      <h3>Apofenia</h3>
+      <h3><a href="https://apofenia.art">Apofenia ↗</a></h3>
       <p>Culture, intellectual property and the systems through which creative work becomes legible and valued.</p>
       <sub>CULTURE · IP · VALUE</sub>
     </td>
@@ -95,42 +95,13 @@
 
 <p align="right"><sub>Some of this work lives in private repositories by design.</sub></p>
 
-## Experiments & annotations
+## Current questions
 
-<sub>CURRENT QUESTIONS</sub>
+<sub>OPEN LINES OF WORK &nbsp;·&nbsp; NOTHING PUBLISHED YET</sub>
 
-<br><br>
-
-<table>
-  <tr>
-    <td width="33.333%" valign="top">
-      <sub>01 / PERCEPTION</sub><br><br>
-      <strong>Observations on perception</strong>
-    </td>
-    <td width="33.333%" valign="top">
-      <sub>02 / ADAPTATION</sub><br><br>
-      <strong>Adaptive systems</strong>
-    </td>
-    <td width="33.333%" valign="top">
-      <sub>03 / SIGNAL</sub><br><br>
-      <strong>Noise and meaning</strong>
-    </td>
-  </tr>
-  <tr>
-    <td width="33.333%" valign="top">
-      <sub>04 / VALUE</sub><br><br>
-      <strong>Value formation</strong>
-    </td>
-    <td width="33.333%" valign="top">
-      <sub>05 / INTERFACES</sub><br><br>
-      <strong>Interfaces and intention</strong>
-    </td>
-    <td width="33.333%" valign="top">
-      <sub>06 / EMBODIMENT</sub><br><br>
-      <strong>Mind, body and technology</strong>
-    </td>
-  </tr>
-</table>
+<p>
+  Perception &nbsp;·&nbsp; Adaptation &nbsp;·&nbsp; Signal &nbsp;·&nbsp; Value &nbsp;·&nbsp; Interfaces &nbsp;·&nbsp; Embodiment
+</p>
 
 <br>
 
