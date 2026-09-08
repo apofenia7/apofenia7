@@ -6,9 +6,14 @@ documentação de arquitetura aqui.
 
 ## Invariantes
 
-- **Nomes.** O produto de saúde chama-se **Alternamente** (`alternamentesaude.com`).
-  "Práxis Care" foi descontinuado como nome público. Um projeto tem um nome só,
-  e ele aparece igual no card e no link.
+- **Nomes.** O card mostra a marca guarda-chuva, não o app. A marca pública de
+  saúde é **Alternamente** (`alternamentesaude.com`). **Práxis** é o app clínico
+  dentro dela, extraído para o repo `alternamente-praxis` em 18/07/2026 — não é
+  marca descontinuada, é outra camada. Por isso o card diz Alternamente e não
+  "Práxis Care": o visitante do perfil chega pela marca, não pelo app.
+- **Este repo não é fonte de verdade sobre o ecossistema.** Os protocolos
+  transversais vivem em `claude-home-config/protocolos/`. Não replique doutrina
+  aqui; linke ou nada.
 - **Sem conteúdo de fachada.** Nenhum título, card ou seção sem destino ou texto
   real. Seção vazia sai da página; volta quando houver o que mostrar.
 - **Links.** Todo projeto com destino público linka do próprio card. Os privados
