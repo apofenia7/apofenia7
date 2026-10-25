@@ -45,9 +45,11 @@ documentação de arquitetura aqui.
   para os dois temas.
 - Capas `lefou-*.jpg`: 440 px, JPEG progressivo, `quality=82`, `optimize=True`.
 - Todo `<img>` precisa de `alt` descritivo — descreve a imagem, não o projeto.
-- Peso: uma visita baixa ~500 KB (uma variante da prancha + capas + glifos).
-  `assets/plate0/` soma ~715 KB. Os 7 JPGs do layout anterior (`assets/*.jpg`,
-  ~410 KB) estão sem uso desde 25/10/2026; remover só com OK do Mateus.
+- Peso: alvo de até 500 KB **por visita** (uma tiragem da prancha + capas +
+  glifos; hoje ~500 KB, sem folga). `assets/` soma ~715 KB porque guarda as duas
+  tiragens. Até 25/10/2026 o alvo era `assets/` < 500 KB no total; mudou por
+  decisão de Mateus, porque nenhuma visita baixa as duas tiragens. Os 7 JPGs do
+  layout anterior foram removidos em 25/10/2026 (estão no histórico do git).
 
 ## Layout
 
@@ -58,6 +60,8 @@ escolhe a prancha clara ou escura; escreva `<picture>`/`<source>` numa linha só
 
 ## Pendência conhecida
 
-O link "website" aponta para `mateusabreu.vercel.app` (destino do antigo
-`mateus-site-ebon.vercel.app`) — ainda subdomínio autogerado ao lado de dois
-domínios próprios. Substituir por domínio próprio.
+O link "website" aponta para `mateusabreu.vercel.app`, o endereço canônico que o
+próprio site declara (o antigo `mateus-site-ebon.vercel.app` redireciona para
+ele). Ainda é subdomínio autogerado ao lado de dois domínios próprios
+(`apofenia.art`, `alternamentesaude.com`). Substituir quando houver domínio
+próprio para o site pessoal.
